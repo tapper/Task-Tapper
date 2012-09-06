@@ -3,6 +3,8 @@ use warnings;
 package Task::Tapper;
 # ABSTRACT: Tapper - max dependencies for hacking on Tapper
 
+=pkgroup Tapper
+
 =pkg Task::Tapper::Installer
 
 =pkg Task::Tapper::Client
